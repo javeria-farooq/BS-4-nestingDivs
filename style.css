@@ -1,0 +1,36 @@
+/* .container{
+    background-color: grey;
+}
+
+.row{
+    background-color: pink;
+    border: 2px solid black;
+}
+
+.col{
+    background-color: aqua;
+} */
+
+/* #col{
+    background-color: blue;
+} */
+
+#grey{
+    background-color: grey;
+}
+
+#pink{
+    background-color: pink;
+}
+
+#skyblue{
+    background-color: skyblue;
+}
+
+#aqua{
+    background-color: aqua;
+}
+
+#green{
+    background-color: green;
+}
